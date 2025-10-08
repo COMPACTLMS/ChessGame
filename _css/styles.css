@@ -1,5 +1,5 @@
 .ui-draggable-dragging {
-    z-index: 10000; !important
+    z-index: 10000; 
 }
 
 .ui-draggable {
@@ -17,11 +17,11 @@ div[id*=cell-]{
     width: 65px;
 }
 div[id*=cell-black-]{
-    background-color:#a2703f ;
+    background-color:#041e91 ;
 }
 
 div[id*=cell-white-]{
-    background-color:#f3cf93 ;
+    background-color:#bebdba ;
 
 }
 
@@ -39,11 +39,11 @@ span[id*=p-]{
 
 .color-path{
     border: 2px solid #7c8bc4;
-    background-color: yellow !important;
+    background-color: rgb(255, 0, 140);
 }
 
 .kill-cell-color{
-    background-color: red !important;
+    background-color: red;
 }
 
 #message-div{
@@ -60,5 +60,6 @@ span[id*=p-]{
 }
 
 .color-body-white{
-    background-color: white !important;
+    background-color: white;
 }
+
